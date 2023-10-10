@@ -18,6 +18,9 @@ $ Full Cycle Rocks!!
 > 
 > :exclamation: :exclamation: :exclamation: IMPORTANTE: A imagem do projeto Go precisa ter menos de 2MB
 
+### Resultado
+
+O resultado deste desafio foi essa [DockerHub Image](https://hub.docker.com/repository/docker/bizzomateus/fullcycle/general)
 
 ## Desafio 2 : Nodejs
 

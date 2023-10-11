@@ -1,0 +1,13 @@
+{
+    "name": "docker_web_app",
+    "version": "1.0.0",
+    "description": "App Node.js usando Docker",
+    "author": "Mateus Bizzo <bizzo.mateus@gmail.com>",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
